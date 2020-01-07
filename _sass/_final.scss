@@ -6,23 +6,24 @@
 
 html, body {
   height: 100%;
-  min-height: 100%;
 }
 
 
-#page-container {
+#page-container { //per avere il footer in fondo al contenuto
   position: relative;
   min-height: 100vh;
 }
 
-#content-wrap {
+#content-wrap { //per avere il footer in fondo al contenuto
   padding-bottom: 2.5rem;    /* Footer height */
 }
 
+.nav-item{ // elementi a destra con navbar collassata
+   text-align: right;
+}
 
 
-
-#miofooter {
+#miofooter { //per avere il footer in fondo al contenuto
   position: absolute;
   bottom: 0;
   width: 100%;

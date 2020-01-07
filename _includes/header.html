@@ -1,10 +1,25 @@
-<nav>
-<ul>
-  <li><a href="/"><img src="/assets/logo/logo-dark.svg" class="logo" alt="logo" width="80"></a></li>
-</ul>
-  <ul>
-    <li><a href="/blog" {% if page.url == "/blog" %}class="active"{% endif %}>Blog</a></li>
-    <li><a href="/about" {% if page.url == "/about" %}class="active"{% endif %}>About</a></li>
-    <li><a href="/projects" {% if page.url == "/projects" %}class="active"{% endif %}>Projects</a></li>
-  </ul>
+<nav class="navbar navbar-expand-sm navbar-light style="background-color: #fff;"">
+
+  <a href="/" class="navbar-brand" >
+  <img src="/assets/logo/logo-dark.svg/" width="50" alt="logo">
+  </a>
+
+  <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarMenu">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarMenu">
+    <ul class="navbar-nav">
+
+    <li class="nav-item">
+    <a href="/blog/" class="nav-item">blog</a>
+    </li>
+
+    <li class="nav-item">
+    <a href="/about/" class="nav-item">about</a>
+    </li>
+
+    </ul>
+  </div>
+
 </nav>

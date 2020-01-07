@@ -19,9 +19,18 @@
 
   </head>
   <body>
+    <div id="page-container">
+    <div id="content-wrap">
     {% include header.html %}
 
-    {{ content }}
-    {% include bootstrap-JS.html %}
+     <!-- all other page content -->
+     {{ content }}
+     {% include bootstrap-JS.html %}
+   </div>
+   {% include footer.html %}
+
+ </div>
+
+
   </body>
 </html>

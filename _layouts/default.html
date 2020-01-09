@@ -18,13 +18,18 @@
     </style>
 
   </head>
+
   <body>
     <div id="page-container">
     <div id="content-wrap">
     {% include header.html %}
 
      <!-- all other page content -->
-     {{ content }}
+     <div class="contento-pagina" style="padding-top:100px;">
+       {{ content }}
+     </div>
+
+
      {% include bootstrap-JS.html %}
    </div>
    {% include footer.html %}

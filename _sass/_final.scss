@@ -30,12 +30,13 @@ body {
 
 #miofooter { //per avere il footer in fondo al contenuto
   position: absolute;
- right: 0;
- bottom: 0;
- left: 0;
- padding: 1rem;
- background-color: #fffff;
- text-align: center;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #fffff;
+  text-align: center;
+  color: grey;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -45,3 +46,12 @@ h1, h2, h3, h4, h5, h6 {
 .nav-link{
   font-size: 20px;
 }
+
+a{
+  color: grey   !important;
+  }
+
+a:hover{
+    color: black   !important;
+    text-decoration: none;
+    }

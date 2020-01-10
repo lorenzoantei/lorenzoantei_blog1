@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-## Ultra - Super fast Jekyll theme 
+## Ultra - Super fast Jekyll theme
 
 Super fast, minimal one-column portfolio/blog theme built for Jekyll. Theme weighs under <strong>2kb</strong>. Perfect for your personal website, blog and portfolio.
 
@@ -19,3 +19,6 @@ Super fast, minimal one-column portfolio/blog theme built for Jekyll. Theme weig
 - sitemap
 - robots.txt
 - atom feed
+
+https://app.netlify.com/sites/lorenzoantei-w5/overview
+https://github.com/lorenzoantei/lorenzoantei_w5

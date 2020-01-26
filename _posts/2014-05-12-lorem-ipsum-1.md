@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lorem Ipsum 2
+title: Lorem Ipsum 1
 description: Lorem Ipsum
 ---
 

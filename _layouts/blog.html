@@ -1,17 +1,41 @@
 ---
 layout: default
 ---
-
+<div  style="font-size: 20px">
 {% for post in site.posts %}
 
+  {% assign currentdate = post.date | date: "%Y" %}
+  {% if currentdate != date %}
+    {% unless forloop.first %}{% endunless %}
+      <br>
+      <br>
+      
+
+      <br>
+      <div id="y{{post.date | date: "%Y"}}" style="text-align: center">
+        {{ currentdate }}
+
+      </div>
+<br>
+      {% assign date = currentdate %}
+    {% endif %}
+
   <article role="article">
-    <h2>
+      <div style="text-align: center">
       <a href="{{ site.baseurl }}{{ post.url }}">
-      {{ post.title }}
+
+            {{ post.title }}
+<br>
+
+
+        <time class="date" datetime="{{ post.date | date_to_xmlschema }}"> {{ post.date | date: "%F" }} </time>
       </a>
-    </h2>
-      <p style="text-align: center">  <time class="date" datetime="{{ post.date | date_to_xmlschema }}"> {{ post.date | date: "%F" }} </time></p>
+      <br>
+      <br>
+      </div>
 
   </article>
-  <br>
+
+  {% if forloop.last %}{% endif %}
 {% endfor %}
+</div>

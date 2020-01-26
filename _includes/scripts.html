@@ -11,9 +11,11 @@
   document.addEventListener('DOMContentLoaded', function () {
 const zooming = new Zooming({
 // options...
-  bgColor: 'rgb(0, 0, 0)',
-  bgOpacity: '0.8',
-  transitionDuration: '0.3' 
+  bgColor: 'rgb(255, 255, 255)',
+  // bgOpacity: '0.8',
+  customSize: '70%',
+  transitionDuration: '0.9',
+  preloadImage: false
 })
 
 zooming.listen('.img-zoomable')

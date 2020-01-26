@@ -20,7 +20,7 @@
 <meta property="twitter:title" content="Lorem Ipsum project" />
 <meta name="twitter:site" content="@yourusername" />
 <script type="application/ld+json">
-{"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:1111/projects/ipsum-ipsum"},"@type":"BlogPosting","url":"http://localhost:1111/projects/ipsum-ipsum","headline":"Lorem Ipsum project","dateModified":"2018-07-07T00:00:00+02:00","datePublished":"2018-07-07T00:00:00+02:00","description":"Description for Seo","@context":"https://schema.org"}</script>
+{"@type":"BlogPosting","url":"http://localhost:1111/projects/ipsum-ipsum","headline":"Lorem Ipsum project","dateModified":"2018-07-07T00:00:00+02:00","datePublished":"2018-07-07T00:00:00+02:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:1111/projects/ipsum-ipsum"},"description":"Description for Seo","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   <link rel="shortcut icon" href="/assets/logo/logo-dark.ico">
@@ -118,9 +118,11 @@
   document.addEventListener('DOMContentLoaded', function () {
 const zooming = new Zooming({
 // options...
-  bgColor: 'rgb(0, 0, 0)',
-  bgOpacity: '0.8',
-  transitionDuration: '0.3' 
+  bgColor: 'rgb(255, 255, 255)',
+  // bgOpacity: '0.8',
+  customSize: '70%',
+  transitionDuration: '0.9',
+  preloadImage: false
 })
 
 zooming.listen('.img-zoomable')

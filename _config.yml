@@ -1,14 +1,9 @@
 site: Lorenzo Antei
-url: https://example.com
+
 title: Lorenzo Antei
-twitter:
-  username: yourusername
-  card: summary
 
 permalink: pretty
 
-paginate:            1000
-paginate_path:       "/page:num/"
 baseurl:             ""
 
 
@@ -33,36 +28,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:slug
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "default"
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  -
-    scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "project"
-
-  - scope:
-      path: "assets/images"
-    values:
-      image: true
 
 port: 1111
 destination: docs

@@ -2,15 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:1111/about</loc>
-<lastmod>2020-01-26T15:15:07+01:00</lastmod>
+<lastmod>2020-02-03T23:30:08+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:1111/blog</loc>
-<lastmod>2020-01-26T15:15:07+01:00</lastmod>
+<lastmod>2020-02-03T23:30:08+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:1111/projects</loc>
-<lastmod>2020-01-26T15:15:07+01:00</lastmod>
+<lastmod>2020-02-03T23:30:08+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:1111/2014/05/12/lorem-ipsum-1</loc>
@@ -35,6 +35,10 @@
 <url>
 <loc>http://localhost:1111/2015/07/31/lorem-ipsum-6</loc>
 <lastmod>2015-07-31T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:1111/2020/02/01/modena-city-ramblers</loc>
+<lastmod>2020-02-01T00:00:00+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:1111/</loc>

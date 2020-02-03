@@ -4,13 +4,23 @@
  <title>Lorenzo Antei</title>
  <link href="http://localhost:1111/atom.xml" rel="self"/>
  <link href="http://localhost:1111/"/>
- <updated>2020-01-26T15:15:07+01:00</updated>
+ <updated>2020-02-03T23:30:08+01:00</updated>
  <id>http://localhost:1111</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Modena City Ramblers - Riaccolti in teatro</title>
+   <link href="http://localhost:1111/2020/02/01/modena-city-ramblers"/>
+   <updated>2020-02-01T00:00:00+01:00</updated>
+   <id>http://localhost:1111/2020/02/01/Modena-City-Ramblers</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;\assets\media\images\posts\modena.jpg&quot; alt=&quot;Modena-title&quot; class=&quot;posts-main-img&quot; /&gt;
+&lt;a href=&quot;https://www.piuomenopop.it/index.php/2020/02/02/modena-city-ramblers-riaccolti-in-teatro-teatro-civico-di-spezia-foto/&quot;&gt;Foto pubblicate su piuomenopop.it&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Lorem Ipsum 6</title>

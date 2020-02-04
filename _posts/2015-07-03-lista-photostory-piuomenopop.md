@@ -4,12 +4,6 @@ title: Lista photostory piuomenopop
 description: Lorem Ipsum
 ---
 
-https://www.piuomenopop.it/index.php/2018/08/05/un-concerto-nelle-spettacolari-cave-di-carrara-cage-live-studio-teatro-alnassar-tutte-le-foto/
-
-https://www.piuomenopop.it/index.php/2018/08/10/viino-musica-e-spettacolo-nel-centro-storico-di-castelnuovo-magra-sp-con-i-cage-tutte-le-foto/
-
-https://www.piuomenopop.it/index.php/2018/08/18/pop-it-festival-non-solo-pop-negli-spazi-della-ex-ceramica-vaccari-di-s-stefano-di-magra-sp-tutte-le-foto/
-
 https://www.piuomenopop.it/index.php/2018/09/15/il-rabdomante-del-suono-lee-ranaldo-cinema-lumiere-pisa/
 
 https://www.piuomenopop.it/index.php/2018/10/07/il-rock-italiano-degli-esterina-arriva-al-lumiere-di-pisa-con-un-ospite-deccezione-tutte-le-foto/

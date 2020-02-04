@@ -4,7 +4,7 @@
  <title>Lorenzo Antei</title>
  <link href="http://localhost:1111/atom.xml" rel="self"/>
  <link href="http://localhost:1111/"/>
- <updated>2020-02-04T20:10:55+01:00</updated>
+ <updated>2020-02-04T21:51:19+01:00</updated>
  <id>http://localhost:1111</id>
  <author>
    <name></name>
@@ -24,47 +24,74 @@
  </entry>
  
  <entry>
-   <title>Lorem Ipsum 6</title>
-   <link href="http://localhost:1111/2015/07/31/lorem-ipsum-6"/>
-   <updated>2015-07-31T00:00:00+02:00</updated>
-   <id>http://localhost:1111/2015/07/31/lorem-ipsum-6</id>
-   <content type="html">&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+   <title>POP it Festival - Ex Ceramica Vaccari (SP)</title>
+   <link href="http://localhost:1111/2018/08/18/pop-it-vaccari"/>
+   <updated>2018-08-18T00:00:00+02:00</updated>
+   <id>http://localhost:1111/2018/08/18/pop-it-vaccari</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.piuomenopop.it/index.php/2018/08/18/pop-it-festival-non-solo-pop-negli-spazi-della-ex-ceramica-vaccari-di-s-stefano-di-magra-sp-tutte-le-foto/&quot;&gt;
+&lt;img alt=&quot;popit-landing&quot; src=&quot;/assets/media/images/posts/pop-it-vaccari.jpg&quot; class=&quot;posts-main-img&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h6 id=&quot;photostory-su-piuomenopopit&quot;&gt;&lt;a href=&quot;https://www.piuomenopop.it/index.php/2018/08/18/pop-it-festival-non-solo-pop-negli-spazi-della-ex-ceramica-vaccari-di-s-stefano-di-magra-sp-tutte-le-foto/&quot;&gt;photostory su piuomenopop.it&lt;/a&gt;&lt;/h6&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Lorem Ipsum 5</title>
-   <link href="http://localhost:1111/2015/07/25/lorem-ipsum-5"/>
-   <updated>2015-07-25T00:00:00+02:00</updated>
-   <id>http://localhost:1111/2015/07/25/lorem-ipsum-5</id>
-   <content type="html">&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+   <title>Cage - Festival del vino e della musica - Castelnuovo (SP)</title>
+   <link href="http://localhost:1111/2018/08/10/cage-vino-musica"/>
+   <updated>2018-08-10T00:00:00+02:00</updated>
+   <id>http://localhost:1111/2018/08/10/cage-vino-musica</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.piuomenopop.it/index.php/2018/08/10/viino-musica-e-spettacolo-nel-centro-storico-di-castelnuovo-magra-sp-con-i-cage-tutte-le-foto/&quot;&gt;
+&lt;img alt=&quot;cage-vino-landing&quot; src=&quot;/assets/media/images/posts/cage-vino.jpg&quot; class=&quot;posts-main-img&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h6 id=&quot;photostory-su-piuomenopopit&quot;&gt;&lt;a href=&quot;https://www.piuomenopop.it/index.php/2018/08/10/viino-musica-e-spettacolo-nel-centro-storico-di-castelnuovo-magra-sp-con-i-cage-tutte-le-foto/&quot;&gt;photostory su piuomenopop.it&lt;/a&gt;&lt;/h6&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Lorem Ipsum 4</title>
-   <link href="http://localhost:1111/2015/07/18/lorem-ipsum-4"/>
-   <updated>2015-07-18T00:00:00+02:00</updated>
-   <id>http://localhost:1111/2015/07/18/lorem-ipsum-4</id>
-   <content type="html">&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+   <title>Cage - Studio Teatro Alnassar</title>
+   <link href="http://localhost:1111/2018/08/05/cage-studio-alnassar"/>
+   <updated>2018-08-05T00:00:00+02:00</updated>
+   <id>http://localhost:1111/2018/08/05/cage-studio-alnassar</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.piuomenopop.it/index.php/2018/08/05/un-concerto-nelle-spettacolari-cave-di-carrara-cage-live-studio-teatro-alnassar-tutte-le-foto/&quot;&gt;
+&lt;img alt=&quot;cage-alnassar-landing&quot; src=&quot;/assets/media/images/posts/cage-alnassar.jpg&quot; class=&quot;posts-main-img&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h6 id=&quot;photostory-su-piuomenopopit&quot;&gt;&lt;a href=&quot;https://www.piuomenopop.it/index.php/2018/08/05/un-concerto-nelle-spettacolari-cave-di-carrara-cage-live-studio-teatro-alnassar-tutte-le-foto/&quot;&gt;photostory su piuomenopop.it&lt;/a&gt;&lt;/h6&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Lorem Ipsum 3</title>
-   <link href="http://localhost:1111/2015/07/10/lorem-ipsum-3"/>
-   <updated>2015-07-10T00:00:00+02:00</updated>
-   <id>http://localhost:1111/2015/07/10/lorem-ipsum-3</id>
-   <content type="html">&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Lorem Ipsum 2</title>
-   <link href="http://localhost:1111/2015/07/03/lorem-ipsum-2"/>
+   <title>Lista photostory piuomenopop</title>
+   <link href="http://localhost:1111/2015/07/03/lista-photostory-piuomenopop"/>
    <updated>2015-07-03T00:00:00+02:00</updated>
-   <id>http://localhost:1111/2015/07/03/lorem-ipsum-2</id>
-   <content type="html">&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+   <id>http://localhost:1111/2015/07/03/lista-photostory-piuomenopop</id>
+   <content type="html">&lt;p&gt;https://www.piuomenopop.it/index.php/2018/09/15/il-rabdomante-del-suono-lee-ranaldo-cinema-lumiere-pisa/&lt;/p&gt;
+
+&lt;p&gt;https://www.piuomenopop.it/index.php/2018/10/07/il-rock-italiano-degli-esterina-arriva-al-lumiere-di-pisa-con-un-ospite-deccezione-tutte-le-foto/&lt;/p&gt;
+
+&lt;p&gt;https://www.piuomenopop.it/index.php/2018/10/14/internet-festival-al-teatro-verdi-viaggio-nel-rock-cosmico-dei-tangerine-dream-tutte-le-foto/&lt;/p&gt;
+
+&lt;p&gt;https://www.piuomenopop.it/index.php/2018/11/24/il-meglio-del-nuovo-pop-italiano-pop-it-club-tour-la-spezia-tutte-le-foto/&lt;/p&gt;
+
+&lt;p&gt;https://www.piuomenopop.it/index.php/2019/02/10/la-rappresentante-di-lista-incanta-tutti-sold-out-al-lumiere-di-pisa-tutte-le-foto/&lt;/p&gt;
+
+&lt;p&gt;https://www.piuomenopop.it/index.php/2019/03/09/4-cantautrici-e-4-chitarre-per-l8-marzo-il-festival-delle-donne/&lt;/p&gt;
+
+&lt;p&gt;https://www.piuomenopop.it/index.php/2019/03/17/giorgio-canali-rossofuoco-live-al-cinema-lumiere-pi-tutte-le-foto/&lt;/p&gt;
+
+&lt;p&gt;https://www.piuomenopop.it/index.php/2019/03/29/pfm-canta-de-andre-live-al-tuscany-hall-fi-tutte-le-foto/&lt;/p&gt;
+
+&lt;p&gt;https://www.piuomenopop.it/index.php/2019/04/13/andate-tutti-affanco-tra-sorrisi-e-lacrime-guarda-le-foto/&lt;/p&gt;
+
+&lt;p&gt;https://www.piuomenopop.it/index.php/2019/04/28/onda-improvvisa-di-calore-massimo-zamboni-incanta-il-deposito-pontecorvo-foto-dellevento/&lt;/p&gt;
+
+&lt;p&gt;https://www.piuomenopop.it/index.php/2019/06/22/alex-britti-spin-la-spezia-tutte-le-foto/&lt;/p&gt;
+
+&lt;p&gt;https://www.piuomenopop.it/index.php/2019/07/17/pfm-tvb-the-very-best-al-moonland-di-sarzana-tutte-le-foto/&lt;/p&gt;
+
+&lt;p&gt;https://www.piuomenopop.it/index.php/2019/07/18/bowland-larte-magica-che-ha-ammaliato-il-moonland-le-foto/&lt;/p&gt;
+
+&lt;p&gt;https://www.piuomenopop.it/index.php/2019/07/21/negrita-moonland/&lt;/p&gt;
+
+&lt;p&gt;https://www.piuomenopop.it/index.php/2019/07/22/moca-daerico-e-fuliminacci-in-chiusura-al-moonland-sarzana-tutte-le-foto/&lt;/p&gt;
+
+&lt;p&gt;https://www.piuomenopop.it/index.php/2019/12/07/pfm-canta-de-andre-live-al-teatro-civico-di-la-spezia-tutte-le-foto/&lt;/p&gt;
 </content>
  </entry>
  

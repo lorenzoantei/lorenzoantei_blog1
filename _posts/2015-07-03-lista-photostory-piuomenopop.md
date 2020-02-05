@@ -4,10 +4,6 @@ title: Lista photostory piuomenopop
 description: Lorem Ipsum
 ---
 
-https://www.piuomenopop.it/index.php/2018/09/15/il-rabdomante-del-suono-lee-ranaldo-cinema-lumiere-pisa/
-
-https://www.piuomenopop.it/index.php/2018/10/07/il-rock-italiano-degli-esterina-arriva-al-lumiere-di-pisa-con-un-ospite-deccezione-tutte-le-foto/
-
 https://www.piuomenopop.it/index.php/2018/10/14/internet-festival-al-teatro-verdi-viaggio-nel-rock-cosmico-dei-tangerine-dream-tutte-le-foto/
 
 https://www.piuomenopop.it/index.php/2018/11/24/il-meglio-del-nuovo-pop-italiano-pop-it-club-tour-la-spezia-tutte-le-foto/

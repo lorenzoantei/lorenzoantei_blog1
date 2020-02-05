@@ -2,6 +2,6 @@
 layout: page
 title: About
 ---
-"<something about me>"
+###### "something about me"
 
-[my github](https://github.com/lorenzoantei/lorenzoantei_w5)
+###### [my github](https://github.com/lorenzoantei/lorenzoantei_w5)

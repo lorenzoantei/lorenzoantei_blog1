@@ -8,7 +8,7 @@ Currently studying "Nuove Tecnologie dell’Arte" at the [Academy of Fine Arts i
 
 <br>
 #### contact me:
-#### [email](mailto:lorenno@lorenzoantei.it) - [telegram](https://t.me/lorenzoantei)
+#### [email](mailto:lorenzo@lorenzoantei.it) - [telegram](https://t.me/lorenzoantei)
 
 <br>
 <br>

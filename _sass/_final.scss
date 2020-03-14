@@ -1,33 +1,18 @@
-* {
-  font-family: Poppins-Regular;
-}
-
-
-html {
-  box-sizing: border-box;
-  height: 100%;
-  margin: 0 auto;
-  max-width: 50rem;
-  padding: 1rem;
-}
-
-*,
-*:before,
-*:after {
-  box-sizing: inherit;
-}
-
-body {
-  position: relative;
-  margin: 0;
-  padding-bottom: 6rem;
-  min-height: 100%;
-}
-
+/* navbar */
 .nav-item{ // elementi a destra con navbar collassata
    text-align: right;
 }
+.nav-link{
+  font-size: 20px;
+}
+nav {
+  padding-bottom: 3.5rem !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  padding-top: 0 !important;
+}
 
+/* footer */
 #miofooter { //per avere il footer in fondo al contenuto
   position: absolute;
   right: 0;
@@ -38,30 +23,16 @@ body {
   color: grey;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  text-align: center;
-}
-
-.nav-link{
-  font-size: 20px;
-}
-
+/* link */
 a{
   color: grey   !important;
   }
-
 a:hover{
     color: black   !important;
     text-decoration: none;
     }
 
-nav {
-  padding-bottom: 3.5rem !important;
-  padding-left: 0 !important;
-  padding-right: 0 !important;
-  padding-top: 0 !important;
-}
-
+/* post */
 .posts-main-img {
   display: block;
   margin-left: auto;
@@ -69,4 +40,31 @@ nav {
   margin-top: 20px;
   margin-bottom: 20px;
   width: 100%;
+}
+
+/* globale */
+html {
+  box-sizing: border-box;
+  height: 100%;
+  margin: 0 auto;
+  max-width: 50rem;
+  padding: 1rem;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+body {
+  position: relative;
+  margin: 0;
+  padding-bottom: 6rem;
+  min-height: 100%;
+}
+* {
+  font-family: Poppins-Regular;
+}
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+  font-family: Poppins-Regular;
 }

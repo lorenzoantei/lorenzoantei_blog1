@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Più o meno POP
 ---
 # Più o meno POP

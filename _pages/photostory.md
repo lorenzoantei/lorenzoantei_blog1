@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: default
 title: Photostory
 ---
-# Photostory
-<div  style="font-size: 20px">
+
+<div>
 
 {% for post in site.tags.photostory %}
 

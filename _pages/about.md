@@ -1,14 +1,17 @@
 ---
-layout: page
-title: About
+layout: default
+title: about
 ---
+
+# {{ page.title }}
+<br>
 Lorenzo Antei was born in 1994 in La Spezia, Italy.
 
 Currently studying "Nuove Tecnologie dell’Arte" at the [Academy of Fine Arts in Carrara](https://www.accademiacarrara.it/).
 
 <br>
-#### contact me:
-#### [email](mailto:lorenzo@lorenzoantei.it) - [telegram](https://t.me/lorenzoantei)
+###### contact me:
+###### [email](mailto:lorenzo@lorenzoantei.it) - [telegram](https://t.me/lorenzoantei)
 
 <br>
 <br>

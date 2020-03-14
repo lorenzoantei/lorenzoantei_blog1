@@ -49,11 +49,6 @@ https://www.facebook.com/media/set/?set=a.10160397323115313.1073742367.135628275
 https://www.facebook.com/media/set/?set=a.10160363646895313.1073742365.135628275312&type=1&l=b238253821
 
 
-
-12) Cimini @ Lumiere (Radioeco)
-14/06/2018
-https://www.facebook.com/media/set/?set=a.10160251528535313.1073742354.135628275312&type=1&l=2479d1bb6b
-
 13) Mad Professor x Deposito Dub @ Deposito Pontecorvo (Radioeco)
 07/04/2018
 https://www.facebook.com/media/set/?set=a.10160224533640313.1073742352.135628275312&type=1&l=15f9101ded
@@ -62,10 +57,6 @@ https://www.facebook.com/media/set/?set=a.10160224533640313.1073742352.135628275
 14) RADIOECO X LIBERA PISA (Radioeco)
 19/03/2018
 https://www.facebook.com/media/set/?set=a.10160139861575313.1073742343.135628275312&type=1&l=fe15f861ea
-
-15) Populous X La torre storta | A Queer Festival @ Lumiere (Radioeco)
-18/03/2018
-https://www.facebook.com/media/set/?set=a.10160133899305313.1073742342.135628275312&type=1&l=0ddf38639e
 
 
 QUI SOPRA FATTI
@@ -76,20 +67,6 @@ QUI SOPRA FATTI
 fatto
 We Riddim takeover con Chiamu e Milangeles @Lumiere
 https://www.facebook.com/media/set/?set=a.10160128948200313.1073742339.135628275312&type=1&l=0037a0891b
-
-
-
-17/03/2018
-fatto
-Gazebo Penguins @ Lumiere Pisa
-https://www.facebook.com/media/set/?set=a.10159995953610313.1073742332.135628275312&type=1&l=6c1fcfb34b
-
-13/01/2018
-fatto
-Murubutu @ Deposito Pontecorvo
-https://www.facebook.com/media/set/?set=a.10159835643205313.1073742328.135628275312&type=1&l=a3277322ec
-
-
 
 13/12/2017
 fatto
@@ -111,20 +88,12 @@ fatto
 Senza Filo Music Contest 2017 - 5a Eliminatoria -Edda
 https://www.facebook.com/media/set/?set=a.10159653437520313.1073742316.135628275312&type=1&l=6026afe933
 
-18/11/2017
-fatto
-Soviet Soviet @ Deposito Pontecorvo
-https://www.facebook.com/media/set/?set=a.10159596362240313.1073742311.135628275312&type=1&l=807f141117
 
 17/11/2017
 fatto
 Senza filo music contest - terza eliminatoria - guest Bucket Butc
 https://www.facebook.com/media/set/?set=a.10159592428155313.1073742310.135628275312&type=1&l=f5a87be258
 
-12/11/2017
-fatto
-DepositoDub#11 Panda Dub live @ Deposito Pontecorvo
-https://www.facebook.com/media/set/?set=a.10159570758880313.1073742307.135628275312&type=1&l=d5c781c1a4
 
 04/12/2017
 fatto

@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Più o meno POP
+title: "#PiùoMenoPOP"
 ---
-# Più o meno POP
-<div  style="font-size: 20px">
+# {{ page.title }}
+
+<div>
 
 {% for post in site.tags.piuomenopop %}
 

@@ -70,19 +70,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* iframe youtube */
-#youtube{
-  display:block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.video-container {
+.media-container {
 position: relative;
 padding-bottom: 56.25%;
 height: 0;
 overflow: hidden;
 }
-.video-container iframe,.video-container object,.video-container embed {
+.media-container iframe,.video-container object,.video-container embed {
 width: 100%;
 height: 100%;
 position: absolute;

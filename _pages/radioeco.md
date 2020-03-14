@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "#photostory"
+title: "#radioeco"
 ---
 # {{ page.title }}
 
 <div>
 
-{% for post in site.tags.photostory %}
+{% for post in site.tags.radioeco %}
 
   {% assign currentdate = post.date | date: "%Y" %}
   {% if currentdate != date %}
@@ -30,7 +30,8 @@ title: "#photostory"
 
         <time class="date" datetime="{{ post.date | date_to_xmlschema }}"> {{ post.date | date: "%F" }} </time>
       </a>
-      <br><br>
+      <br>
+      <br>
       </div>
 
   </article>

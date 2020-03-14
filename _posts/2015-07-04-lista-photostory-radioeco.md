@@ -9,17 +9,7 @@ https://www.facebook.com/media/set/?set=a.10160551737010313.1073742373.135628275
 giorno 3
 https://www.facebook.com/media/set/?set=a.10160556333380313.1073742374.135628275312&type=1&l=727437315d
 
-2) Mokadelic @ Lumiere
-15/04/2018
-https://www.facebook.com/media/set/?set=a.10160255134530313.1073742357.135628275312&type=1&l=828c87bfaf
 
-3) Paletti & Elso @ Lumiere
-06/04/2018
-https://www.facebook.com/media/set/?set=a.10160220698415313.1073742351.135628275312&type=1&l=888e06a9a5
-
-4) Colapesce @ Lumiere
-11/03/2018
-https://www.facebook.com/media/set/?set=a.10160100236225313.1073742336.135628275312&type=1&l=ec1af0ca01
 
 5) Il natale con gli Zen #13 @ SwampClub
 26/12/2017

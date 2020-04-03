@@ -18,8 +18,8 @@ Currently studying "Nuove Tecnologie dell’Arte" at the [Academy of Fine Arts i
 
 ###### My profiles:
 
-###### [facebook](https://github.com/lorenzoantei/lorenzoantei_w5)
+###### [facebook](https://www.facebook.com/lorenzoantei.it/)
 
-###### [instagram](https://github.com/lorenzoantei/lorenzoantei_w5)
+###### [instagram](https://www.instagram.com/lorenzoantei.it/)
 
-###### [github](https://github.com/lorenzoantei/lorenzoantei_w5)
+###### [github](https://github.com/lorenzoantei/lorenzoantei_blog1)

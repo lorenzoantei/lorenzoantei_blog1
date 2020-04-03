@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Portfolio-phoenixcinematografica
+title: Portfolio Phoenixcinematografica
 ---
 
-# Portfolio video
+# Portfolio
 <br>
 
 **11 shoots - vlog della mia quarantena**
